@@ -2,18 +2,17 @@
 
 Università di Verona
 
-Robotica - laboratorio
+[Corso di Robotica - parte di laboratorio](http://profs.scienze.univr.it/~bloisi/corsi/robotica.html)
 AA 2017/2018
-
 Docente: Domenico Daniele Bloisi
 
-http://profs.scienze.univr.it/~bloisi/corsi/robotica.html
+## Istruzioni
 
 Dopo aver eseguito le istruzioni presenti nella [seconda esercitazione](http://profs.scienze.univr.it/~bloisi/corsi/robotica.html#ese2) del 19/10/2017, avviare lo script presente nel file "setup.sh".
 
 Seguire le istruzioni riportate nel tutorial [turtlebot3 gazebo](http://turtlebot3.robotis.com/en/latest/simulation.html#gazebo-3d) per lanciare il nodo ROS turtlebot3_simulation e poter avviare la guida autonoma del turtlebot nel modello del laboratorio.
 
-Autori:
+## Autori
 Enrico Marchesini VR409577
 Davide Corsi VR409578
 Fabio Falezza VR409987
