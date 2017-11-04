@@ -4,7 +4,7 @@ Università di Verona
 
 [Corso di Robotica - parte di laboratorio](http://profs.scienze.univr.it/~bloisi/corsi/robotica.html)<br>
 AA 2017/2018<br>
-Docente: Domenico Daniele Bloisi
+Docente: [Domenico Daniele Bloisi](http://profs.scienze.univr.it/~bloisi/)
 
 ## Istruzioni
 
